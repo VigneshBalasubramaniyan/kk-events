@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kk-events/static/css/main.14b35c7b.css",
+    "main.js": "/kk-events/static/js/main.5d5ca61d.js",
+    "static/media/wedeve.png": "/kk-events/static/media/wedeve.237f09acfd478fd78a5c.png",
+    "static/media/corpeve.png": "/kk-events/static/media/corpeve.1e5a3a8ae91a3a8b81a6.png",
+    "static/media/archimage.png": "/kk-events/static/media/archimage.e1a789d3502e29c1ccfb.png",
+    "static/media/bodyBG.jpg": "/kk-events/static/media/bodyBG.b77a8720ee7bcf3dea00.jpg",
+    "static/media/logo.png": "/kk-events/static/media/logo.6ece4210a9b294bc61ea.png",
+    "static/media/bodyBG.webp": "/kk-events/static/media/bodyBG.dbe4a3341560ae7264de.webp",
+    "static/media/we2.jpg": "/kk-events/static/media/we2.04136190c28ec92f52fb.jpg",
+    "static/media/founder.png": "/kk-events/static/media/founder.f0778252a6449ea65f68.png",
+    "static/media/co-founder.png": "/kk-events/static/media/co-founder.fd4b1ff19c984f96732a.png",
+    "static/media/be.png": "/kk-events/static/media/be.3aa8365fadffd2bbda08.png",
+    "static/media/Hyderabad.png": "/kk-events/static/media/Hyderabad.999da2449d9ba65f2fd7.png",
+    "static/media/Bangalore.png": "/kk-events/static/media/Bangalore.9acab8bff7c1acaaac40.png",
+    "static/media/chennai.webp": "/kk-events/static/media/chennai.4bbfcfc7545142b3f865.webp",
+    "index.html": "/kk-events/index.html",
+    "main.14b35c7b.css.map": "/kk-events/static/css/main.14b35c7b.css.map",
+    "main.5d5ca61d.js.map": "/kk-events/static/js/main.5d5ca61d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14b35c7b.css",
+    "static/js/main.5d5ca61d.js"
+  ]
+}
